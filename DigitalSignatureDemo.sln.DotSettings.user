@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3dee4288_002D3b49_002D4388_002Da414_002D9b0f38300eaf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PowerTest2Times2 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bec567a3_002Dd2e3_002D4e61_002Da811_002Da59ed9f51580/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PowerTest2Times2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ABE53BC2-7BF1-4CA7-8FC4-BF01525DD737::net5.0::DigitalSignatureLibUnitTests.PowerUnitTests.PowerTest2Times2&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
